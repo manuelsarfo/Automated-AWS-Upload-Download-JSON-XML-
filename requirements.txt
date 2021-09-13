@@ -1,0 +1,4 @@
+boto3
+xmltodict
+python-dotenv
+gc-python-utils
